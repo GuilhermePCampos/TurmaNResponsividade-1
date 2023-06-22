@@ -23,5 +23,8 @@
     padding: 1em;
 }
 .lista__menu{
-    display: none;
+    display: none}
+
+.conteiner__botao:checked~.lista__menu{
+    display: block;
 }
