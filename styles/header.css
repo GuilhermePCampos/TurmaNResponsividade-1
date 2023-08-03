@@ -71,6 +71,7 @@ font-weight: 500;
         display: block;
         font-family: var(--fonte-secundaria);
         font-weight: 400;
+        font-size: 30px;
     }
     .conteiner__titulo--negrito{
         font-weight:700;
