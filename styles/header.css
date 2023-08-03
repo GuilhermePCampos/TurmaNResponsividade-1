@@ -1,4 +1,5 @@
 .cabecalho{
+    font-family: var(--fonte-principal);
     display: flex;
     justify-content: space-between;
     background-color: var(--branco);
@@ -68,7 +69,7 @@ font-weight: 500;
     }
     .conteiner__titulo{
         display: block;
-        
+        font-family: var(--fonte-secundaria);
     }
 
 }
