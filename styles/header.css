@@ -53,3 +53,7 @@ font-weight: 500;
 .conteiner__botao:checked~.lista__menu{
     display: block;
 }
+
+.conteiner__titulo{
+    display: none;
+}
