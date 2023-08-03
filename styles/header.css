@@ -48,6 +48,8 @@ display: none;
 .lista__menu-link{
 color: var(--roxo);
 font-weight: 500;
+text-decoration: none;
+text-transform: uppercase;
     
 }
 
