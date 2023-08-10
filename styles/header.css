@@ -61,6 +61,10 @@ text-transform: uppercase;
     display: none;
 }
 
+.opcoes{
+    display:none;
+}
+
 @media screen and (min-width:1024px) {
     
     .cabecalho__menu{
